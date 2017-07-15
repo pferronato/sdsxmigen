@@ -1,6 +1,7 @@
 package import_SDS_metamodels;
 
 // TODO feature 1
+// improved
 
 import java.util.ArrayList;
 import java.util.HashMap;
